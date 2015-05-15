@@ -66,7 +66,7 @@ echo "
 	    #wp-admin-bar-environment-notice { display: block }
 	    #wp-admin-bar-environment-notice>div>span {
 	        color: #EEE!important;
-	        font-size: 20px!important;
+	        font-size: 130%!important;
 	    }
 	}
 	#adminbarsearch:before,
