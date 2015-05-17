@@ -18,7 +18,7 @@ Copy folder into Applications/XAMPP/ds-plugins on a MAC
 
 Copy folder into c:\xampplite\ds-plugins on PC
 
-Go to DesktopServer and Select the first option
+Go to DesktopServer and Select the first option "Stop or restart the weband dataabse services.
 
 Check the box next to Local Admin Bar Color, under Enable Developer Plugins
 
