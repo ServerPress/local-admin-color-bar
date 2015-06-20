@@ -4,22 +4,22 @@
 * Removes WordPress "Howdy" message
 * Adds "LOCAL DEVELOPEMENT WEBSITE" to admin bar
 
-Set color with define in wp-config.php file
+Set color with define in your wp-config.php file:
 
-define('DS_COLOR', 'orange');
+`define('DS_COLOR', 'orange');`
 
 ### Installation
 
-You must be running DesktopServer 3.8+
+* You must be running DesktopServer 3.8+
 
-Uncompress the zip
+* Uncompress the zip
 
-Copy folder into Applications/XAMPP/ds-plugins on a MAC
+* Copy folder into Applications/XAMPP/ds-plugins on a Mac
 
-Copy folder into c:\xampplite\ds-plugins on PC
+* Copy folder into c:\xampplite\ds-plugins on PC
 
-Go to DesktopServer and Select the first option "Stop or restart the weband dataabse services.
+* Go to DesktopServer and select the first option, "Stop or restart the web and database services"
 
-Check the box next to Local Admin Bar Color, under Enable Developer Plugins
+* Check the box next to Local Admin Bar Color, under Enable Developer Plugins
 
-Select Yes. Start Apache and MySQL services.
+* Select Yes. Start Apache and MySQL services.
