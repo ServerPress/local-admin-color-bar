@@ -2,7 +2,7 @@
 
 * Changes color of Admin Bar
 * Removes WordPress "Howdy" message
-* Adds "LOCAL DEVELOPEMENT WEBSITE" to admin bar
+* Adds "LOCAL DEVELOPMENT WEBSITE" to admin bar
 
 Set color with define in your wp-config.php file:
 
