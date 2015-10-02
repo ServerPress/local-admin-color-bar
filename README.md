@@ -8,6 +8,10 @@ Set color with define in your wp-config.php file:
 
 `define('DS_COLOR', 'orange');`
 
+Set text with define in your wp-config.php file:
+
+`define('ENV_TEXT', 'LOCAL DEV');`
+
 ### Installation
 
 * You must be running DesktopServer 3.8+
