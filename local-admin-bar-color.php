@@ -31,7 +31,16 @@ add_action('init', 'ds_admin_bar_init');
   * Add admin notice
   */
 function ds_admin_bar_notice() {
-	$env_text = 'LOCAL DEVELOPMENT WEBSITE';
+
+	if (defined( 'ENV_TEXT' ) && ENV_TEXT) {
+	
+		$env_text = ENV_TEXT;
+		
+	} else {
+	
+		$env_text = 'LOCAL DEVELOPMENT WEBSITE';
+		
+	}
 
 	$admin_notice = array(
 		'parent'	=> 'top-secondary', /** puts it on the right side. */
