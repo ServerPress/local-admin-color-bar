@@ -3,7 +3,7 @@
 Plugin Name: Local Admin Bar Color
 Plugin URL: https://serverpress.com/plugins/local-admin-bar-color
 Description: Changes the Admin bar color 
-Version: 1.0.0
+Version: 1.0.1
 Author: Gregg Franklin
 Author URI: http://greggfranklin.com
  */
