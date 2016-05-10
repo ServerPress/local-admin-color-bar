@@ -1,6 +1,6 @@
 <?php
 /**
-Plugin Name: Local Admin Bar Color
+Plugin Name: Local Admin Color Bar
 Plugin URL: https://serverpress.com/plugins/local-admin-bar-color
 Description: Changes the Admin bar color 
 Version: 1.0.1
