@@ -1,0 +1,16 @@
+{
+    "name": "serverpress/local-admin-color-bar",
+    "description": "Changes the Admin bar color.",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "authors":[
+        {
+            "name": "Gregg Franklin",
+            "email": "gregg@serverpress.com",
+            "homepage": "https://github.com/serverpress"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
